@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZqcfVxcOHW/KryoQWDSc3IZiQgpNkxPy8OUNlKMI4+MxMd5Hk2bH2rku2hDWm5u97fPMB9JQG97if77lNxthgg==",
+  "dgSpecHash": "U7tSJVsf9O/novHxckuAxDdS07pni8dMxJKnwZcasBQHHcT0QyXibt6n9akSvUw6eL0yMTjYsAgtmofWhkD1Sg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DGOLEA\\source\\repos\\WebApp_IdentityServer4\\WebApp_IdentityServer4.csproj",
+  "projectFilePath": "C:\\Users\\DGOLEA\\source\\repos\\ASP.NET_Core_Identity\\ASP.NET_Core_Identity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DGOLEA\\source\\repos\\ASP.NET_Core_Identity\\WebApp_IdentityServer4.csproj": {}
+    "C:\\Users\\DGOLEA\\source\\repos\\ASP.NET_Core_Identity\\ASP.NET_Core_Identity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DGOLEA\\source\\repos\\ASP.NET_Core_Identity\\WebApp_IdentityServer4.csproj": {
+    "C:\\Users\\DGOLEA\\source\\repos\\ASP.NET_Core_Identity\\ASP.NET_Core_Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DGOLEA\\source\\repos\\ASP.NET_Core_Identity\\WebApp_IdentityServer4.csproj",
-        "projectName": "WebApp_IdentityServer4",
-        "projectPath": "C:\\Users\\DGOLEA\\source\\repos\\ASP.NET_Core_Identity\\WebApp_IdentityServer4.csproj",
+        "projectUniqueName": "C:\\Users\\DGOLEA\\source\\repos\\ASP.NET_Core_Identity\\ASP.NET_Core_Identity.csproj",
+        "projectName": "ASP.NET_Core_Identity",
+        "projectPath": "C:\\Users\\DGOLEA\\source\\repos\\ASP.NET_Core_Identity\\ASP.NET_Core_Identity.csproj",
         "packagesPath": "C:\\Users\\DGOLEA\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\DGOLEA\\source\\repos\\ASP.NET_Core_Identity\\obj\\",
         "projectStyle": "PackageReference",
