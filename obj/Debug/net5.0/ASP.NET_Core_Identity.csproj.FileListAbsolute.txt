@@ -21,10 +21,14 @@ C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\staticwebass
 C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\ASP.NET_Core_Identity.TagHelpers.input.cache
 C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\ASP.NET_Core_Identity.TagHelpers.output.cache
 C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\ASP.NET_Core_Identity.RazorCoreGenerate.cache
+C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\Razor\Pages\Account\AccessDenied.cshtml.g.cs
 C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\Razor\Pages\Account\Login.cshtml.g.cs
 C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\Razor\Pages\HRManager.cshtml.g.cs
+C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\Razor\Pages\HumanResource.cshtml.g.cs
 C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
 C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\Razor\Pages\Settings.cshtml.g.cs
 C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\DGOLEA\source\repos\ASP.NET_Core_Identity\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
